@@ -2,7 +2,7 @@
 templateKey: blog-post
 path: /jamaica-blue
 title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 01/05/2017 4:04 PM
+date: '01/05/2017 4:04 PM'
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
   Mountain coffee beans in our store next week.
@@ -18,10 +18,6 @@ The Blue Mountains are considered by many to be a hiker's and camper's paradise.
 > Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
 
 This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-![](/img/products-grid2.jpg)
-
-
 
 ## What you need to know before trying
 
